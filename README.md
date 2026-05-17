@@ -1,11 +1,14 @@
 
-  # Untitled
+  # Transformer Debugger
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/aK9vFzEieJcSBw6H4jbNqV/Untitled.
+  Interactive visualization tool for debugging and understanding transformer model execution — attention heatmaps, tensor inspection, pipeline navigation, and step-by-step execution.
 
-  ## Running the code
+  🔗 [Live Demo](https://YOUR_USERNAME.github.io/transformer-debugger/)
 
-  Run `npm i` to install the dependencies.
+  ## Running locally
 
-  Run `npm run dev` to start the development server.
+  ```bash
+  npm install
+  npm run dev
+  ```
   
